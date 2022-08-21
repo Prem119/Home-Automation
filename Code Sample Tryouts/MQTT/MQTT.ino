@@ -7,7 +7,7 @@
 #define FAN_PIN D3
 #define MQTT_SERVER "192.168.0.119"
 const char* ssid = "presha";
-const char* password = "poodhuduvo";
+const char* password = "change_it";
 char* stateTopicCFL = "bedroom/cflSwitch";
 char* commandTopicCFL = "bedroom/cflSwitch/set";
 char* stateTopicFan = "bedroom/fanSwitch";
